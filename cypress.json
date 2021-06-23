@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://www.lourencodemonaco.com.br/vvtest/",
+    "video": true,
+    "videoCompression": 0,
+    "retries": 2,
+    "defaultCommandTimeout": 30000,
+    "pageLoadTimeout": 30000,
+    "viewportWidth": 2000,
+    "viewportHeight": 860
+}
